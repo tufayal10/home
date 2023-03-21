@@ -35,3 +35,95 @@ width: 90%;
 
 
 
+html{
+   background: linear-gradient(to left, #ed4264, #ffedbc);
+   background-size: 300% 300%;
+   animation: color 12s ease-in-out infinite;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.cp{
+  width: 96%;
+  margin: 10px 2%;
+}
+a{
+  text-decoration: none
+}
+.pp{
+  position: relative;
+  top: -90px;
+}
+.pp1{
+  border-radius: 50%;
+  width: 40%;
+  border: 5px solid white;
+  justify-content: center;
+}
+.ppsec{
+ background: 
+  
+}
+.fb, .insta, .twr, .what, .teli, .call, .mail, .pro{
+  width: 90%;
+  height: 70px;
+  background: green;
+  border-radius: 30px;
+  display: flex;
+}
+.call{
+  background: #39e75f;
+}
+.mail{
+  background: red;
+}
+.fb{
+  background: #1778F2 url() 0 0 no-repeat;
+}
+.insta{
+  background: #F56040
+}
+.twr{
+  background: #00acee ;
+}
+.what{
+  background: #25D366;
+}
+.teli{
+  background: #0088cc;
+}
+h1, .h2, h3{
+  text-align: center ;
+  font-family: sans-serif;
+ }
+.contact{
+  background: 
+}
+.imgl{
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+  border: 3px solid white;
+  margin: auto 60px;
+  border-radius: 25%;
+}
+p{
+  color: white;
+  font-size: 25px;
+  margin: auto 0px
+}
+.h2{
+  color: black
+}
+.project{
+  margin-top: 70px;
+  
+}
+.p1{background: darkviolet;}
+.p2{background: blue;}
+.p3{background: skyblue;}
+.p4{background: green;}
+.p5{background: greenyellow;}
+.p6{background: orange;}
+.p7{background: red;}
