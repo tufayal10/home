@@ -28,7 +28,7 @@ a{
  background: 
   
 }
-.fb, .insta, .twr, .what, .teli, .call, .mail{
+.fb, .insta, .twr, .what, .teli, .call, .mail, .pro{
   width: 90%;
   height: 70px;
   background: green;
@@ -78,3 +78,16 @@ p{
 .h2{
   color: black
 }
+ 
+
+
+.project{
+  margin-top: 70px;
+}
+.p1{background: darkviolet;}
+.p2{background: blue;}
+.p3{background: skyblue;}
+.p4{background: green;}
+.p5{background: greenyellow;}
+.p6{background: orange;}
+.p7{background: red;}
