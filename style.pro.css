@@ -1,4 +1,4 @@
-html{
+/**html{
   background: linear-gradient(to left, #ed4264, #ffedbc);
    background-size: 300% 300%;
    animation: color 12s ease-in-out infinite;
@@ -26,12 +26,13 @@ html{
   margin: auto 60px;
   border-radius: 25%;
 }
-.pro{
-width: 90%;
-  height: 70px;
-  background: green;
-  border-radius: 30px;
-  display: flex;}
+
+
+
+
+
+**/
+
 
 
 
