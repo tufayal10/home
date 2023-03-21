@@ -1,8 +1,15 @@
+html{
+  background: linear-gradient(to left, #ed4264, #ffedbc);
+   background-size: 300% 300%;
+   animation: color 12s ease-in-out infinite;
+}
 .h2{
-  color: black
+  color: black;
+  
 }
 .project{
   margin-top: 70px;
+  text-align: center;
 }
 .p1{background: darkviolet;}
 .p2{background: blue;}
